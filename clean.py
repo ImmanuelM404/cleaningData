@@ -35,4 +35,4 @@ artistYear = data.loc[:, ['ARTIST', 'TITLE', 'ACQUISITION_YEAR']]
 print(artistYear)
 
 
-#Handling Bad, Missing Duplicates 
+#Handling Bad, Missing Duplicate
